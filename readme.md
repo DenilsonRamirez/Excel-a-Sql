@@ -93,5 +93,3 @@ Las contribuciones son bienvenidas. Igualmente el uso es libre, se puede utiliza
 ## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
-```
-
