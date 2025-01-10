@@ -95,4 +95,3 @@ Las contribuciones son bienvenidas. Igualmente el uso es libre, se puede utiliza
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
 
-Puedes guardar este contenido como un archivo README.md y mantendrá todo el formato Markdown correctamente. ¿Necesitas algún otro archivo o ajuste?
