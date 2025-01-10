@@ -1,6 +1,4 @@
-Claro, puedo proporcionarte el contenido del README.md en un formato que preservará el formato Markdown cuando lo descargues. Aquí lo tienes:
 
-```markdown
 # Script de Migración de Datos para Sistema Educativo
 
 Este script de Python está diseñado para automatizar la migración de datos desde hojas de Excel a una base de datos MySQL para un sistema de gestión educativa.
@@ -90,7 +88,7 @@ estudiantesporcurso (idListado, estudiante, curso)
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Por favor, asegúrese de actualizar las pruebas según corresponda.
+Las contribuciones son bienvenidas. Igualmente el uso es libre, se puede utilizar como una plantilla o ejemplo para lo que se necesite procesar.
 
 ## Licencia
 
